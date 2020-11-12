@@ -23,6 +23,9 @@ improve if you would have more time to spend on the project.
 Should you wish, you are free to improve the solution until the interview (add features, add tests, refactor). 
 If you do so, please notify the recruiter about this so that we can review the latest version.
 
+Please publish the solution in a private [GitHub](https://github.com/) repository and give user 
+[@evo-home-task](https://github.com/evo-home-task) access to the repository. 
+
 ### REST
 
 The server should be hosted on port `9000`. URLs for different operations should be defined under the
