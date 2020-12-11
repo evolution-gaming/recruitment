@@ -5,7 +5,7 @@
 Create a C++ function `findClosestPoints` which takes the following parameters:
 
 * a collection of 3-dimensional points called `points`
-* a 3-dimensional called `origin`
+* a 3-dimensional point called `origin`
 * an integer value `n`
 
 The function returns the `n` nearest `points` to `origin`. 
