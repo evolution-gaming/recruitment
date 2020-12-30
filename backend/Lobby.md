@@ -4,17 +4,16 @@
 
 Develop a server for a JSON-based protocol.
 
-It is up to you whether to support WebSocket, REST or both. 
+It is up to you whether to support WebSocket, REST or both.
 
 It is up to you to choose the technical stack, however we suggest that you use one which is relevant to the
-position you are interviewing for and with which you are proficient.
-    
-If in doubt, please choose `Akka HTTP` with `Circe` as a JSON serializer, and `sbt` as the build tool.
+position you are interviewing for and with which you are proficient. If in doubt, please use the technology 
+stack listed in the job description.
 
 A client UI is not required.
 
 The server should be able to handle multiple concurrent clients.
-    
+
 The server should authenticate user `admin` with password `admin` successfully.
     
 Please document clearly how to launch the server, limitations that your solution has, and what you would
