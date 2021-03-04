@@ -13,8 +13,10 @@ The goal of this task is to demonstrate your skills in designing, structuring an
 We understand that depending on your experience with similar tasks you may find it straightforward or
 difficult.
 
-Therefore, we will review and consider incomplete implementations. However, in this case we ask that you
-briefly list all the limitations (such as missing or incomplete functionality) of your solution.
+Therefore, we will review and consider incomplete implementations. However, in this case we ask that:
+* You focus on domain logic and structure of your solution instead of technical implementation details, such 
+  as applying third party libraries to implement the communication layer
+* You briefly list all the limitations (such as missing or incomplete functionality) of your solution.
 
 ### Technologies
 
@@ -30,7 +32,8 @@ description so that we can keep that in mind when reviewing your solution.
 Please including a concise `ReadMe.md` file with the following:
 * Known limitations of your solution
 * Key design decisions made, especially if you considered multiple options
-* How to launch and test the solution (unless it uses the standard approach by the standard build tool).
+* How to test and - if applicable - launch the solution (unless it uses the standard approach by the standard 
+  build tool).
 
 ### Submission process
 
@@ -174,6 +177,7 @@ If you are motivated to further showcase your skills you can:
   [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em) or one that you invent)
 * Introduce variations of games that support more than two players per game round and/or multiple decision
   rounds and/or sequential decisions
+* Support "multi-tabling" - players can play multiple games in parallel at once  
 * Add player authentication and/or make account balances persistent
 * Handle player disconnects (consider allowing reconnecting to a running game and games timing out)
 * Describe what you believe the optimal strategy for these games is for the players
