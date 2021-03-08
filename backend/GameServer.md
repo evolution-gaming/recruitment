@@ -7,7 +7,8 @@
 Please develop a back-end for two simple games described below.
 
 The goal of this task is to demonstrate your skills in designing, structuring and writing code, especially:
-* Defining useful abstractions and achieving code reuse (this is why it includes two similar games)
+* Defining useful abstractions and achieving modularity and code reuse (this is why it includes two similar 
+  games)
 * Handling shared mutable state.
 
 We understand that depending on your experience with similar tasks you may find it straightforward or
@@ -34,6 +35,9 @@ Please including a concise `ReadMe.md` file with the following:
 * Key design decisions made, especially if you considered multiple options
 * How to test and - if applicable - launch the solution (unless it uses the standard approach by the standard 
   build tool).
+
+We do not require the documentation to be verbose or lengthy - short descriptions are acceptable, and details
+can be discussed on the interview.
 
 ### Submission process
 
