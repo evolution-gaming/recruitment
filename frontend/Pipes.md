@@ -5,7 +5,7 @@
 Please develop a game client for a "Pipes" puzzle.
 
 The puzzle is played connecting to the backend located at
-[wss://hometask.eg1236.com/game-pipes/](wss://hometask.eg1236.com/game-pipes/) over WebSockets and sending
+[wss://hometask.eg1236.com/game-pipes](wss://hometask.eg1236.com/game-pipes) over WebSockets and sending
 commands to it.
 
 Valid commands include:
