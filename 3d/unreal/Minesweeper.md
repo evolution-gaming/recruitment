@@ -5,7 +5,7 @@
 Please develop a 3D game client (front-end) for a "Minesweeper" puzzle.
 
 The puzzle is played connecting to the backend located at
-[wss://hometask.eg1236.com/game1](wss://hometask.eg1236.com/game1) over WebSockets and sending
+[wss://hometask.eg1236.com/game1/](wss://hometask.eg1236.com/game1/) over WebSockets and sending
 commands to it.
 
 Valid commands include:
