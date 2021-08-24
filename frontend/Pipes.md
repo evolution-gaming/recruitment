@@ -60,6 +60,9 @@ can be discussed on the interview.
 
 If anything in the task description is unclear, or you encounter any problems, please do not hesitate to ask.
 
+Please deploy your solution - there are easy ways to do this such as [Surge](https://surge.sh/) and [Netlify](https://www.netlify.com/) - and include the publicly
+accessible URL in your ReadMe.md.
+
 ## Implementation and grading notes
 
 You are not required to develop a full "auto-solver" and can choose to just implement a UI and solve levels
