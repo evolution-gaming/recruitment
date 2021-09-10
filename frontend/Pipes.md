@@ -4,7 +4,7 @@
 
 Please develop a game client for a "Pipes" puzzle.
 
-The puzzle is played connecting to the backend located at
+The puzzle is played by connecting to the backend located at
 [wss://hometask.eg1236.com/game-pipes/](wss://hometask.eg1236.com/game-pipes/) over WebSockets and sending
 commands to it.
 
@@ -60,8 +60,8 @@ can be discussed on the interview.
 
 If anything in the task description is unclear, or you encounter any problems, please do not hesitate to ask.
 
-Please deploy your solution - there are easy ways to do this such as [Surge](https://surge.sh/) and [Netlify](https://www.netlify.com/) - and include the publicly
-accessible URL in your ReadMe.md.
+Please deploy your solution - there are easy ways to do this such as [Surge](https://surge.sh/) and 
+[Netlify](https://www.netlify.com/) - and include the publicly accessible URL in your ReadMe.md.
 
 ## Implementation and grading notes
 
@@ -73,14 +73,15 @@ We will appreciate if you use:
 * TypeScript
 * React and/or Canvas (2D or WebGL)
 * Redux or MobX for state management if you believe a state management library is useful for your solution.
-  However, we will review solutions using other technologies as well - you are free to pick technologies you
-  are comfortable working with.
+  
+However, we will review solutions using other technologies as well - you are free to pick technologies you
+are comfortable working with.
 
 If you chose any technologies or approaches with which you lack experience, please mention this in the
 description so that we can keep that in mind when reviewing your solution.
 
 The goal of this task is to demonstrate your skills in designing, structuring and writing code, especially:
-* Defining useful abstractions and achieving modularity and code reuse
+* Defining useful abstractions and achieving modularity and code reuse,
 * Handling state.
 
 If possible, your design should be such that makes adding other similar games less difficult.
