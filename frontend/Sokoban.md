@@ -51,19 +51,3 @@ If anything in the task description is unclear, or you encounter any problems, p
 You are not required to develop a full "auto-solver" and can choose to just implement a UI and solve levels
 manually, or using partial "assistance" features. Nevertheless, we will be glad to review and discuss the
 "auto-solver" with you if you choose to implement one.
-
-We will appreciate if you use:
-* TypeScript
-* React and/or Canvas (2D or WebGL)
-* Redux or MobX for state management if you believe a state management library is useful for your solution.
-  However, we will review solutions using other technologies as well - you are free to pick technologies you
-  are comfortable working with.
-
-If you chose any technologies or approaches with which you lack experience, please mention this in the
-description so that we can keep that in mind when reviewing your solution.
-
-The goal of this task is to demonstrate your skills in designing, structuring and writing code, especially:
-* Defining useful abstractions and achieving modularity and code reuse
-* Handling state.
-
-If possible, your design should be such that makes adding other similar games less difficult.
