@@ -26,6 +26,7 @@ The symbols represent:
 * 📥 - box destination
 * 📧 - box
 * 🧝 - player character who can move the box
+* 📨 - box on top of destination 
 
 There are multiple levels available, with differing complexity.
 
