@@ -21,8 +21,8 @@ Valid commands include:
 The goal of the puzzle is to move the boxes to the box destinations.
 
 The symbols represent:
-* ⬜ - wall
-* 🟫 - empty space
+* 🟫 - wall
+* ⬜ - empty space
 * 📥 - box destination
 * 📧 - box
 * 🧝 - player character who can move the box
@@ -36,8 +36,7 @@ Please publish the solution in a private [GitHub](https://github.com/) repositor
 [@evo-home-task](https://github.com/evo-home-task) access to the repository.
 
 Please including a concise `ReadMe.md` file with the following:
-* Level passwords that you obtained (it is not required to find all of them - we do not expect that all or even most
-  candidates will solve the largest levels)
+* Level passwords that you obtained (it is not required to find all of them, but the more - the better)
 * Known limitations of your solution
 * Key design decisions made, especially if you considered multiple options
 * How to launch the solution.
