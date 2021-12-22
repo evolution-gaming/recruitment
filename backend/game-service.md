@@ -31,6 +31,8 @@ You are tasked with creating a RESTful service from which players can play a sim
 
 Any code that you feel can be reusable should be added into a &quot;framework&quot; component, only runtime persistence is expected (in memory DB).
 
+Make sure to write Unit / Acceptance test cases to support and verify the requirements above.
+
 ### Documentation
 
 Please include a concise `ReadMe.md` file with the following:
@@ -41,9 +43,9 @@ Please include a concise `ReadMe.md` file with the following:
 We do not require the documentation to be verbose or lengthy - short descriptions are acceptable, and details
 can be discussed on the interview.
 
-### Nice to have:
+### Finally
 
-* Unit / Acceptance test cases
+Please make necessary assumptions wherever required
 
 Please publish the solution in a private [GitHub](https://github.com/) repository and give the user [@evo-home-task](https://github.com/evo-home-task) access to the repository.
 
