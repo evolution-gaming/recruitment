@@ -34,5 +34,3 @@ The application should be based on Unreal Engine 4.
 Please use C++ for:
 * Communication with the server using WebSockets 
 * Cells container.
-
-Usage of Unreal Engine 4 Animation Blueprints will be considered beneficial.
