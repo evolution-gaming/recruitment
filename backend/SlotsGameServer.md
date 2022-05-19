@@ -1,3 +1,6 @@
+
+<img src="https://www.evolution.com/profiles/evolutiongaming/themes/evolutiongaming/logooneline.svg" alt="drawing" width="200"/>
+
 # Backend - Simple Game Server Assignment
 
 ## Introduction
@@ -5,18 +8,18 @@
 As part of applying to us, we would like you to complete the following code assignment using Java. We suggest that you spend around 4 to 8 hours to complete the tasks.
 
 The goal of this task is to demonstrate your skills in designing, structuring and writing code. We understand that depending on your experience with similar tasks you may find it straightforward or difficult. Therefore, we will review and consider incomplete implementations. However, in this case we ask that:
-* You focus on domain logic and structure of your solution instead of technical implementation details, such 
+* You focus on domain logic and structure of your solution instead of technical implementation details, such
   as applying third party libraries to implement the communication layer
 * You briefly list all the limitations (such as missing or incomplete functionality) of your solution.
 
 ## Make a game service in Java
 
 ### Part 1
-You are tasked with creating a RESTful service from which players can play a simple game. 
+You are tasked with creating a RESTful service from which players can play a simple game.
 The return to player (RTP) is expected to be 97%. This means you need to calculate to probability of the different win levels and how often a win can occur.
 General rule is a small win should occur more frequently than a medium win, and a medium win should occur more frequently than a big win.
-> Calculation for RTP: The total amount returned to players divided by the total bets by players. 
-> Example:  outcome after 100 rounds: amount returned to players = 194€, total bets 200€, RTP:  194/200 = 97%. 
+> Calculation for RTP: The total amount returned to players divided by the total bets by players.
+> Example:  outcome after 100 rounds: amount returned to players = 194€, total bets 200€, RTP:  194/200 = 97%.
 
 The requirements for the service are:
 
