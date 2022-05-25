@@ -60,7 +60,6 @@ Please publish the solution in a private [GitHub](https://github.com/) repositor
 [@evo-home-task](https://github.com/evo-home-task) access to the repository.
 
 Please including a concise `ReadMe.md` file with the following:
-* Level passwords that you obtained (it is not required to find all of them, but the more - the better)
 * Known limitations of your solution
 * Key design decisions made, especially if you considered multiple options
 * How to launch the solution.
