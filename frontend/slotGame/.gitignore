@@ -5,4 +5,4 @@ node_modules
 .vscode/settings.json
 .DS_Store
 Thumbs.db
-dist/**/*
+dist
