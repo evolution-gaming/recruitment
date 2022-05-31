@@ -29,7 +29,7 @@ You are tasked with creating a RESTful service from which players can play a sim
 * Free round works in the same way as a normal round except that no bet is deducted from the balance. The free round should follow immediately after winning a free round.
 * The player can both win money and a free round at the same time.
 
-####Part 2
+#### Part 2
 Create a RESTful service to fetch played game rounds (from Part 1)
 * It should be possible to see all previous game outcomes for a specific player
 * It should be possible to see one specific game round
