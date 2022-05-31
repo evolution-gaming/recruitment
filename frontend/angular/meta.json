@@ -1,0 +1,141 @@
+{
+  "name": "Game Viewset List",
+  "fields": [
+    {
+      "key": "id",
+      "type": "integer",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": true,
+      "label": "ID"
+    },
+    {
+      "key": "name",
+      "type": "string",
+      "required": true,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": false,
+      "label": "Game Name",
+      "max_length": 100
+    },
+    {
+      "key": "game_reporting_name",
+      "type": "string",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": false,
+      "label": "Game Reporting Name",
+      "max_length": 100
+    },
+    {
+      "key": "game_family",
+      "type": "field",
+      "required": true,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": false,
+      "label": "Game Family"
+    },
+    {
+      "key": "branded",
+      "type": "boolean",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": false,
+      "label": "Branded"
+    },
+    {
+      "key": "jackpot",
+      "type": "boolean",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": false,
+      "label": "Jackpot"
+    },
+    {
+      "key": "uk_enabled",
+      "type": "boolean",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": false,
+      "label": "UK Enabled"
+    },
+    {
+      "key": "invalid",
+      "type": "boolean",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": false,
+      "label": "Invalid"
+    },
+    {
+      "key": "updated_at",
+      "type": "datetime",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": true,
+      "label": "Updated At"
+    },
+    {
+      "key": "updated_by_username",
+      "type": "field",
+      "required": false,
+      "allow_empty": false,
+      "allow_null": false,
+      "read_only": true,
+      "label": "Updated By"
+    }
+  ],
+  "options": {
+    "game_family": {
+      "options": [
+        {
+          "id": 1,
+          "game_family": "classic-slots",
+          "descriptive_name": "Classic Slot Game"
+        },
+        {
+          "id": 2,
+          "game_family": "livecasino-games",
+          "descriptive_name": "Live Casino Game"
+        },
+        {
+          "id": 3,
+          "game_family": "lottery-games",
+          "descriptive_name": "Lottery Game"
+        },
+        {
+          "id": 4,
+          "game_family": "other-games",
+          "descriptive_name": "Other Game"
+        },
+        {
+          "id": 5,
+          "game_family": "tablegames",
+          "descriptive_name": "Table Game"
+        },
+        {
+          "id": 6,
+          "game_family": "videopokers",
+          "descriptive_name": "Video Poker Game"
+        },
+        {
+          "id": 7,
+          "game_family": "videoslots",
+          "descriptive_name": "Video Slot Game"
+        }
+      ],
+      "multiple": false,
+      "value_field": "game_family",
+      "display_field": "descriptive_name"
+    }
+  }
+}

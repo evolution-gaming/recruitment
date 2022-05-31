@@ -1,0 +1,127 @@
+{
+  "count": 10,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "name": "7-gold-scratch",
+      "game_reporting_name": "Seven Gold Scratch",
+      "game_family": "Lottery Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": false,
+      "invalid": false,
+      "updated_at": "2021-08-06 08:04:00 UTC",
+      "updated_by_username": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "ace",
+      "game_reporting_name": "Ace Scratch",
+      "game_family": "Lottery Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": true,
+      "invalid": false,
+      "updated_at": "2021-08-05 21:32:34 UTC",
+      "updated_by_username": "Jane Doe"
+    },
+    {
+      "id": 3,
+      "name": "advanced-roulette",
+      "game_reporting_name": "Roulette Advanced",
+      "game_family": "Table Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": false,
+      "invalid": false,
+      "updated_at": "2021-08-06 09:51:18 UTC",
+      "updated_by_username": "Jack Reacher"
+    },
+    {
+      "id": 4,
+      "name": "alien-robots",
+      "game_reporting_name": "Alien Robots",
+      "game_family": "Video Slot Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": true,
+      "invalid": false,
+      "updated_at": "2020-08-04 08:46:05 UTC",
+      "updated_by_username": "James Bond"
+    },
+    {
+      "id": 5,
+      "name": "aliens",
+      "game_reporting_name": "Aliens",
+      "game_family": "Video Slot Game",
+      "branded": true,
+      "jackpot": false,
+      "uk_enabled": true,
+      "invalid": false,
+      "updated_at": "2019-05-23 12:58:58 UTC",
+      "updated_by_username": "Bruce Wayne"
+    },
+    {
+      "id": 6,
+      "name": "all-american",
+      "game_reporting_name": "All American",
+      "game_family": "Video Poker Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": true,
+      "invalid": false,
+      "updated_at": "2019-05-13 11:25:43 UTC",
+      "updated_by_username": "Admin"
+    },
+    {
+      "id": 7,
+      "name": "all-american-double-up",
+      "game_reporting_name": "All American",
+      "game_family": "Video Poker Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": true,
+      "invalid": false,
+      "updated_at": "2019-05-13 11:25:43 UTC",
+      "updated_by_username": "Admin"
+    },
+    {
+      "id": 8,
+      "name": "aloha",
+      "game_reporting_name": "Aloha! Cluster Pays",
+      "game_family": "Video Slot Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": true,
+      "invalid": false,
+      "updated_at": "2021-08-06 08:06:23 UTC",
+      "updated_by_username": "John Doe"
+    },
+    {
+      "id": 9,
+      "name": "alohaxmas",
+      "game_reporting_name": "Aloha! Christmas",
+      "game_family": "Video Slot Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": false,
+      "invalid": false,
+      "updated_at": "2020-10-15 11:35:17 UTC",
+      "updated_by_username": "Jane Doe"
+    },
+    {
+      "id": 10,
+      "name": "american-roulette",
+      "game_reporting_name": "American Roulette",
+      "game_family": "Table Game",
+      "branded": false,
+      "jackpot": false,
+      "uk_enabled": false,
+      "invalid": false,
+      "updated_at": "2021-08-06 09:28:27 UTC",
+      "updated_by_username": "Admin"
+    }
+  ]
+}
