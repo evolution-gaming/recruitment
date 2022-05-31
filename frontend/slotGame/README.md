@@ -1,4 +1,6 @@
-# NetEnt - Game Developer Test 
+<img src="https://www.evolution.com/profiles/evolutiongaming/themes/evolutiongaming/logooneline.svg" alt="drawing" width="200"/>
+
+# Game Developer Test 
 
 # Prerequisites
 
