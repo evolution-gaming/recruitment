@@ -44,7 +44,6 @@ The requirements for the service are:
 Payout simulation to verify RTP
 * Create an acceptance test that plays 100000 game rounds.
 * The test should verify that the RTP is around 97%
-* The test should use the REST API you created in part 1
 
 
 ## Documentation
