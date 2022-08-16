@@ -42,7 +42,7 @@ The requirements for the service are:
 
 ### Part 2
 Payout simulation to verify RTP
-* Create an acceptance test that plays 100000 game rounds.
+* Create an acceptance test that plays 10000 game rounds.
 * The test should verify that the RTP is around 97%
 
 
