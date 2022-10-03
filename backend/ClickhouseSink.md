@@ -12,18 +12,18 @@ Therefore, we will review and consider incomplete implementations. However, in t
 ## Task description
 
 Create a Scala application that reads Kafka and produces into ClickHouse table.
-The regular ClickHouse HTTP interface should be used to insert records, a third party clickhouse client shouldn't be used.
+The regular ClickHouse HTTP interface should be used to insert records, don't use third-party ClickHouse client.
 Source model and the table structure can be arbitrary.
 
 ## Optional Tasks
 
 If you are motivated to further showcase your skills you can implement:
-* The way the application inserts records is optimal for ClickHouse
-* An abstraction that can handle arbitrary input data types
-* An abstraction that can handle arbitrary data sources
-* The application health check
-* The application metrics
-* The horizontal scalability
+* data insertion in the optimal way for ClickHouse
+* abstraction for handling arbitrary input types
+* abstraction for handling arbitrary data sources
+* application health check
+* application metrics
+* horizontal scalability
 
 These tasks are fully optional.
 
