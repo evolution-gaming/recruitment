@@ -1,5 +1,5 @@
 
-<img src="https://www.evolution.com/profiles/evolutiongaming/themes/evolutiongaming/logooneline.svg" alt="drawing" width="200"/>
+<img src="https://www.evolution.com/wp-content/themes/evolution-wp/assets/img/evolution_logo.svg" alt="drawing" width="200"/>
 
 # Backend - Simple Game Server Assignment
 
