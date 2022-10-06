@@ -49,8 +49,6 @@ Please publish the solution in a private [GitHub](https://github.com/) repositor
 [@evo-home-task](https://github.com/evo-home-task) access to the repository.
 
 Please including a concise `ReadMe.md` file with the following:
-* Level passwords that you obtained (it is not required to find all 6 - we do not expect that all or even most
-  candidates will solve the largest levels)
 * Known limitations of your solution
 * Key design decisions made, especially if you considered multiple options
 * How to launch the solution.
@@ -65,9 +63,9 @@ Please deploy your solution - there are easy ways to do this such as [Surge](htt
 
 ## Implementation and grading notes
 
-You are not required to develop a full "auto-solver" and can choose to just implement a UI and solve levels
-manually, or using partial "assistance" features. Nevertheless, we will be glad to review and discuss the
-"auto-solver" with you if you choose to implement one.
+Implement the UI to solve levels manually or using partial "assistance" features (feel free to express any ideas).
+
+We will be glad to review and discuss the "auto-solver" with you if you choose to implement one. In such case please provide level passwords that you obtained.
 
 We will appreciate if you use:
 * TypeScript
